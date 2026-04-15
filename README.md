@@ -46,4 +46,4 @@ Health informaticist with a Bachelor of Health Services Management and 3 years o
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D85A30?style=flat-square)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D85A30?style=flat-square)](mailto:tracyjuddy2@gmail.com)
