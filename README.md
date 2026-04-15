@@ -40,7 +40,15 @@ Health informaticist with a Bachelor of Health Services Management and 3 years o
 - 3+ years in health informatics
 - Proficient in 2 major EHR platforms (Epic & Athenahealth)
 - HIPAA-compliant data handling across all roles
+## Projects
 
+### 🏥 Medical Virtual Assistant Toolkit
+A practical reference toolkit covering EHR data entry standards and HIPAA compliance workflows for remote medical virtual assistants.
+- Epic & Athenahealth data entry templates
+- Interactive HIPAA compliance checklist
+- Remote patient intake SOP
+
+[View project →](https://github.com/TracyJuddy/medical-va-toolkit)
 ---
 
 ## Let's connect
