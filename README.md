@@ -48,7 +48,7 @@ A practical reference toolkit covering EHR data entry standards and HIPAA compli
 - Interactive HIPAA compliance checklist
 - Remote patient intake SOP
 
-[View project →](https://github.com/TracyJuddy/medical-va-toolkit)
+[View project →](https://github.com/TracyMVA/medical-va-toolkit)
 ---
 
 ## Let's connect
